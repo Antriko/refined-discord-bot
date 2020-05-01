@@ -1,0 +1,14 @@
+{
+    "name": "hbot",
+    "version": "1.0.0",
+    "description": "testing discord API",
+    "main": "app.js",
+    "author": "Drag",
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "dotenv": "^8.2.0"
+    }
+}
